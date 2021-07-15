@@ -1,0 +1,23 @@
+{
+    "articles": [
+      {
+        "id": 0,
+        "author": "John Smith",
+        "avator": "https://s3.amazonaws.com/uifaces/faces/twitter/elbuscainfo/128.jpg",
+        "title": "This is a Article Title",
+        "subtitle": "Impedit eveniet consequuntur corrupti rerum cum occaecati architecto.",
+        "articleBody": "Quis ut saepe ut. Velit a porro sed sunt cumque possimus sed quisquam. Omnis omnis et praesentium laborum aperiam temporibus aliquam. Voluptas dolorem enim rerum eius qui ut atque et. Sit aut aliquam est consequatur nobis illo sunt blanditiis. Voluptatem eaque natus.",
+        "publishedDate": "2019-11-15T07:25:15.769Z",
+        "mainImage": "http://placeimg.com/900/650"
+      },
+      {
+        "author": "Alberto Steuber",
+        "title": "Itaque id voluptatem.",
+        "subtitle": "Est consequuntur ullam vitae quia vitae qui delectus.",
+        "publishedDate": "2020-10-19T17:05:35.477Z",
+        "mainImage": "https://source.unsplash.com/900x650/?random",
+        "articleBody": "asdf",
+        "id": 1
+      }
+    ]
+  }
